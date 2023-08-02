@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AshishRodi/TextUtility/static/css/main.d20202a4.css",
-    "main.js": "/AshishRodi/TextUtility/static/js/main.abe243f9.js",
-    "static/js/787.84097b25.chunk.js": "/AshishRodi/TextUtility/static/js/787.84097b25.chunk.js",
-    "index.html": "/AshishRodi/TextUtility/index.html",
-    "main.d20202a4.css.map": "/AshishRodi/TextUtility/static/css/main.d20202a4.css.map",
-    "main.abe243f9.js.map": "/AshishRodi/TextUtility/static/js/main.abe243f9.js.map",
-    "787.84097b25.chunk.js.map": "/AshishRodi/TextUtility/static/js/787.84097b25.chunk.js.map"
+    "main.css": "/AshishRodi/TextUtiils-React/static/css/main.d20202a4.css",
+    "main.js": "/AshishRodi/TextUtiils-React/static/js/main.b817f1e2.js",
+    "static/js/787.84097b25.chunk.js": "/AshishRodi/TextUtiils-React/static/js/787.84097b25.chunk.js",
+    "index.html": "/AshishRodi/TextUtiils-React/index.html",
+    "main.d20202a4.css.map": "/AshishRodi/TextUtiils-React/static/css/main.d20202a4.css.map",
+    "main.b817f1e2.js.map": "/AshishRodi/TextUtiils-React/static/js/main.b817f1e2.js.map",
+    "787.84097b25.chunk.js.map": "/AshishRodi/TextUtiils-React/static/js/787.84097b25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.abe243f9.js"
+    "static/js/main.b817f1e2.js"
   ]
 }
